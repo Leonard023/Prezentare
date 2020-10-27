@@ -1,0 +1,204 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #cffffe;
+}
+.middle-container {
+  background-color: #d8f2ea;
+}
+
+.bottom-container {
+  background-color: #84a39f;
+  margin: 30px 20px 15px 20px;
+  padding-top: 25px;
+}
+
+a {
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 50px 20px;
+  text-decoration: none;
+  color: #11999E
+}
+a:hover {
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 30px;
+  font-size: 0.75rem;
+}
+
+h1 {
+  padding-bottom: 25px;
+  margin: 0;
+  line-height: 2;
+  font-family: 'Courgette', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  position: relative;
+  top: 100px;
+}
+
+.description {
+  margin-top: 70px;
+  text-align: center;
+  color: #66BFBF;
+  font-size: 1rem;
+  position: relative;
+  font-weight: normal;
+}
+
+.profile {
+  height: 430px;
+}
+
+.leo {
+  margin: 50px auto 100px auto;
+  width: 150px;
+  height: 150px;
+}
+.Hello {
+  margin-top: 15px;
+  position: relative;
+  bottom: 100px;
+  font-size: 2rem;
+}
+.about-me {
+  width: 700px;
+  margin-left: 25%;
+  position: relative;
+  bottom: 100px;
+  color: #40514E;
+}
+
+.mountain {
+  width: 500px;
+}
+
+.cloud-1 {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.cloud-2 {
+  position: absolute;
+  top: 150px;
+  right: 250px;
+}
+hr{
+  margin: 0 45% 0 45%;
+  border:10px;
+  border-style: none none dotted;
+  color: #46D246;
+}
+/*****************************div 2********************/
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill{
+  text-align: center;
+  font-size: 1.6rem;
+}
+.blender-info {
+line-height: 2;
+font-weight: normal;
+}
+.blender {
+  font-size: 1rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.blender-img {
+  width: 25%;
+  float: left;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+}
+.it-description {
+  line-height: 2;
+  font-weight: normal;
+}
+.tech {
+  font-size: 1rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+.IT{
+  width: 25%;
+  float: right;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+
+.contact-me {
+  margin-top: 70px;
+}
+.myButton {
+	background:linear-gradient(to bottom, #219c89 5%, #30e3cb 100%);
+	background-color:#7892c2;
+	border-radius:14px;
+	border:3px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#c0cadb;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size:23px;
+	font-weight:bold;
+	padding:3px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 16px #283966;
+  margin: 30px 30px 15px 30px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #219c89 100%);
+	background-color:#b73ec2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+/************************************second page*********************/
+.title {
+  text-align: center;
+  padding:100px;
+}
+.name-1{
+  position: relative;
+  margin: top 5px;
+  padding: 10px;
+  margin border-bottom: 5px;
+  color: #283966;
+}
+
+.email-1 {
+  padding: 12px;
+  color: #283966;
+}
+}
+.contact-page {
+  background-color: #d8f2ea;
+  color: #283966;
+}
+.mesaje {
+  padding: 25px;
+  color: #283966;
+}
+.tel {
+  color: #283966;
+}
